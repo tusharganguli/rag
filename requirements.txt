@@ -1,0 +1,10 @@
+conda install langchain -c conda-forge
+conda install langchain-community
+conda install transformers
+pip install "unstructured[all-docs]"
+pip install PyMuPDF
+conda install tesseract
+pip install chromadb
+pip install rouge-score
+pip install bert-score
+
